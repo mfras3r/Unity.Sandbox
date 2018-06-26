@@ -4,3 +4,5 @@
 
 /.vs/Unity.Sandbox/v15
 /Packages/manifest.json
+/obj/Debug
+/Temp

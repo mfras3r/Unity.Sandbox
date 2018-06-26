@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Sandbox", "Assembly-CSharp.csproj", "{FAF4A541-E1C7-EF5D-918E-58A84E8D867E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF4A541-E1C7-EF5D-918E-58A84E8D867E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF4A541-E1C7-EF5D-918E-58A84E8D867E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF4A541-E1C7-EF5D-918E-58A84E8D867E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF4A541-E1C7-EF5D-918E-58A84E8D867E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
